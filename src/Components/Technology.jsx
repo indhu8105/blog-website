@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Logo from '../common/logo'
+import Logo from '../common/Logo'
 import NavbarComp from '../common/NavbarComp'
 import "./home.css"
 import Footer from '../common/Footer'
